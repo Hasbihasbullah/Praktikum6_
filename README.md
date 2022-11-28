@@ -1,6 +1,6 @@
 # Praktikum6_
 SEMESTER 3_ 
-PERTEMUAN 10_ Abstract Class and Interface
+# PERTEMUAN 10_ Abstract Class and Interface
 Pemrograman Berorientasi OBjek
 
 Nama    : HASBI HASBULLAH
@@ -15,7 +15,7 @@ Soal  !
 
 Penyelesaian dalam Bahasa Pemrograman Java  :.....
 
-SOURCE CODE :
+#SOURCE CODE :
 
 1.  Bangundatar.Java
 
@@ -48,7 +48,7 @@ SOURCE CODE :
 ![5  main_](https://user-images.githubusercontent.com/92858927/204264786-3ab1fcc6-38db-4ceb-ad0c-a1c1e7cb94c9.png)
 
 
-HASIL OUTPUT  :
+#HASIL OUTPUT  :
 
 
 ![6  output](https://user-images.githubusercontent.com/92858927/204264942-163b1469-4b30-4a0b-a78d-f18a3e66d20a.png)
